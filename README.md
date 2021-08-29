@@ -26,7 +26,9 @@ In the centre of the hall there will be a three-dimensional map that can be zoom
 ![2](https://user-images.githubusercontent.com/62585203/131250607-54ed8335-f190-4e51-8012-753d929952f4.jpg)
 ![3](https://user-images.githubusercontent.com/62585203/131250608-66b03469-d987-472b-be82-7e08150ae4f0.jpg)
 ![5](https://user-images.githubusercontent.com/62585203/131250609-e25838ac-a72c-421e-99dd-ca58f16526bb.jpg)
-The rooms on each floor have been fully realistically modelled.![1 png](https://user-images.githubusercontent.com/62585203/131250639-ea465945-92b1-4bf7-ae45-e988710d49e0.jpg)
+
+The rooms on each floor have been fully realistically modelled.
+![1 png](https://user-images.githubusercontent.com/62585203/131250639-ea465945-92b1-4bf7-ae45-e988710d49e0.jpg)
 ![2](https://user-images.githubusercontent.com/62585203/131250641-cd9a220a-f126-4871-828b-3cbc80b3307e.jpg)
 ![3](https://user-images.githubusercontent.com/62585203/131250644-039044fc-566b-49ed-9b53-416847968852.jpg)
 ![4](https://user-images.githubusercontent.com/62585203/131250646-62337235-73db-4305-8a2b-cb23ac42f665.jpg)
