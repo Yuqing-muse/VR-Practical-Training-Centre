@@ -3,6 +3,7 @@ Represented university to implement a Virtual Reality project of Practical Train
 
 The system is partly a simulation of the environment. Through the simulation of the building, VR equipment users will feel a fully immersive tour experience. The other part is a display system, through text images, interactive UI, 3D models and other elements to achieve the laboratory introduction, project demonstration, etc.
 The project aims to provide an immersive tour experience, an interactive solid UI system and other features under VR environment simulation. Then implant a guidance system to fully immerse the user in the intense experience and interaction brought by the VR environment.
+**The project contains many models, so it's too large to upload to Github. I just uploaded scripts only.**
 
 # Features
 **Model** All models are fully restored to real scenes, made in 3DMAX, Maya.
@@ -34,4 +35,6 @@ The rooms on each floor have been fully realistically modelled.
 ![4](https://user-images.githubusercontent.com/62585203/131250646-62337235-73db-4305-8a2b-cb23ac42f665.jpg)
 ![6](https://user-images.githubusercontent.com/62585203/131250649-b75095e6-53de-4945-9cf8-f07c0d615444.jpg)
 ![7](https://user-images.githubusercontent.com/62585203/131250651-98ef5493-dcd6-4961-a1c7-e53fa3616b7b.jpg)
+![QQ截图20210829225012](https://user-images.githubusercontent.com/62585203/131269162-2055646c-5527-4ba9-b28c-f78b106a48a2.jpg)
+![2](https://user-images.githubusercontent.com/62585203/131269165-53d7bf4b-e103-47aa-a109-a9870f5bebac.jpg)
 
